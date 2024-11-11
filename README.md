@@ -156,3 +156,7 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 ### OUTPUT:
 
 ![WhatsApp Image 2024-05-08 at 11 31 00 PM (1)](https://github.com/Selvakumar525/project/assets/120643262/4249b8c6-c641-419f-a4e0-b4945cd43c25)
+## RESULT:
+Thus, a python program using OpenCV for following image manipulations is done successfully.
+
+
